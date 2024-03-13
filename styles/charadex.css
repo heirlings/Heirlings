@@ -16,18 +16,18 @@ body {
   /* Primary Color
   ================================================================ */
   --cd-primary-color:                    #8BA749;
-  --cd-primary-text-color:               #fff;
+  --cd-primary-text-color:               #26491D;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #939799;
-  --cd-secondary-text-color:             #fff;
+  --cd-secondary-color:                  #C8D973;
+  --cd-secondary-text-color:             #808042;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #f8f8f8;
+  --cd-body-background-color:            #454535;
   --cd-content-background-color:         #ffffff;
   --cd-faded-background-color:           #f8f8f8;
 
